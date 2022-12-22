@@ -1,3 +1,6 @@
 linked_list
 vector
 bit_ops
+bit_ops.exe
+bit_ops.o
+test_bit_ops.o
